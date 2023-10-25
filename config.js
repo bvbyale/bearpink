@@ -10,27 +10,12 @@ import moment from 'moment-timezone';
 global.botnumber = 11
 
 global.owner = [
-  ['5219992095479', '👑 bbi
-  ['593968585283'],
-  ['5219993404349'],
-  ['5219991402134'],
-  ['5492266466080'],
-  ['5219996125657'],
-  ['5218442114446'],
-  ['59894808483'],
-  ['593980586516'], 
-  ['595975740803'],  
-  ['5492266613038'], 
-  ['595992611272']
-];
+  ['56951612471'💜 bbi '
 
-global.suittag = ['5219993404349'];
-global.prems = ['51995386439'];
 
-global.packname = '(☞ﾟ∀ﾟ)☞';
+global.packname = '💜'
 global.author = '★bearbot
 global.wm = '★bearpink
-global.wait = '*[❗] Ƈᴀʀɢᴀɴᴅᴏ, ᴀɢᴜᴀʀᴅᴇ ᴜɴ ᴍᴏᴍᴇɴᴛᴏ...*';
 
 global.imagen1 = fs.readFileSync('./Menu2.jpg');
 global.imagen2 = fs.readFileSync('./src/nuevobot.jpg');
